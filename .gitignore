@@ -1,0 +1,14 @@
+# Godot 4+ specific ignores
+.import/
+.godot/
+
+# Mono/.NET
+.mono/
+data_*/
+
+# Builds
+export/
+
+# OS junk
+.DS_Store
+Thumbs.db
